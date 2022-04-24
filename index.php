@@ -55,8 +55,7 @@ $versao = "1.541651456";
             <h3 class="my-4"><b>6 ingredientes Simples Que Fazem O Corpo Queimar Até 13Kg Em 30 Dias</b></h3>
 
             <!-- VSL -->
-            <script type="text/javascript" id="scr_625f815e557f8a0008e1e33e">var s=document.createElement("script");s.src="https://scripts.converteai.net/21c35eee-6871-4497-8a5c-6c8303150916/players/625f815e557f8a0008e1e33e/player.js",s.async=!0,document.head.appendChild(s);</script>
-
+<script type="text/javascript" id="scr_625f815e557f8a0008e1e33e">var s=document.createElement("script");s.src="https://scripts.converteai.net/21c35eee-6871-4497-8a5c-6c8303150916/players/625f815e557f8a0008e1e33e/player.js",s.async=!0,document.head.appendChild(s);</script>
             <!-- Botão 1 -->
             <div id="cta1" class="mt-4 d-none">
               <a href="https://pay.kiwify.com.br/HdXDGA0" class="a-btn" style="text-decoration: none;">
