@@ -55,7 +55,7 @@ $versao = "1.541651456";
             <h3 class="my-4"><b>6 ingredientes Simples Que Fazem O Corpo Queimar Até 13Kg Em 30 Dias</b></h3>
 
             <!-- VSL -->
-            <script type="text/javascript" id="scr_623bca1e752ce700085c5a36">var s=document.createElement("script");s.src="https://cdn.converteai.net/21c35eee-6871-4497-8a5c-6c8303150916/players/623bca1e752ce700085c5a36/player.js",s.async=!0,document.head.appendChild(s);</script>
+            <script type="text/javascript" id="scr_625f815e557f8a0008e1e33e">var s=document.createElement("script");s.src="https://scripts.converteai.net/21c35eee-6871-4497-8a5c-6c8303150916/players/625f815e557f8a0008e1e33e/player.js",s.async=!0,document.head.appendChild(s);</script>
 
             <!-- Botão 1 -->
             <div id="cta1" class="mt-4 d-none">
@@ -451,7 +451,7 @@ $versao = "1.541651456";
     </footer>
 
     <script type="text/javascript">
-      setTimeout(() => {document.getElementById("cta1").classList.remove("d-none"); document.getElementById("cta2").classList.remove("d-none")}, 1760000); // temporização da Call to Action (em milissegundos)
+      setTimeout(() => {document.getElementById("cta1").classList.remove("d-none"); document.getElementById("cta2").classList.remove("d-none")}, 1294000); // temporização da Call to Action (em milissegundos)
     </script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=<?php echo $versao; ?>" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
